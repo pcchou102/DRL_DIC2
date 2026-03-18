@@ -4,7 +4,7 @@
 
 ## 🌟 網頁連結
 
-👉 **[點此觀看 Value Iteration 視覺化展示 (GitHub Pages)](https://pcchou102.github.io/DRL_DIC2/)**
+👉 **[Demo page (GitHub Pages)](https://pcchou102.github.io/DRL_DIC2/)**
 
 ---
 
