@@ -4,7 +4,7 @@
 
 ## 🌟 網頁連結
 
-👉 **[Demo page (GitHub Pages)](https://pcchou102.github.io/DRL_DIC2/)**
+👉 **[Demo page (https://pcchou102.github.io/DRL_DIC2/)](https://pcchou102.github.io/DRL_DIC2/)**
 
 ---
 
