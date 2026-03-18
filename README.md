@@ -53,6 +53,6 @@
 ---
 
 ## 📝 專案架構
-- `index.html` (同 `value_iteration.html`) - 主要應用程式介面，包含了 HTML, CSS (自訂樣式) 與 JavaScript (Value Iteration 邏輯)。
+- `index.html` - 主要應用程式介面，包含了 HTML, CSS (自訂樣式) 與 JavaScript (Value Iteration 邏輯)。
 
 > 此為深度強化學習課程 (DRL) 的實作專案之一。
